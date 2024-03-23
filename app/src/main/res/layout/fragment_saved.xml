@@ -10,7 +10,6 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="12dp"
         android:fontFamily="@font/poppins"
-        android:text="Saved."
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -19,7 +18,7 @@
         android:id="@+id/recyclerSaved"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="10dp"
         android:layout_marginStart="8dp"/>
 
 </FrameLayout>
